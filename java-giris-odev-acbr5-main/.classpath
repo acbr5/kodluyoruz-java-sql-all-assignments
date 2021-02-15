@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/home/aysenurb/Downloads/json-20201115.jar"/>
+	<classpathentry kind="lib" path="/home/aysenurb/Downloads/org.json-chargebee-1.0.jar"/>
+	<classpathentry kind="output" path="out"/>
+</classpath>
